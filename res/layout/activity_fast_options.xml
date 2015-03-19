@@ -1,0 +1,15 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/TableLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FastOptions" >
+
+    <Button
+        android:id="@+id/sendButton"
+        android:layout_width="60dp"
+        android:layout_height="42dp"
+        android:background="@drawable/hotkeywrapper"
+        android:text="Button" />
+
+</TableLayout>
