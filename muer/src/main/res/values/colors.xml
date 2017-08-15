@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="connect_text_color">#80ff0000</color>
+    <color name ="BG_color">#1E1E1E</color>
+    <color name="white">#fdeef4</color>
+    <color name="transparent">#00000000</color>
+</resources>

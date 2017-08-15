@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/layout-v11/abc_screen_content_include.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/layout-v11/abc_screen_content_include.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
+    }
+]

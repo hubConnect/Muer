@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_on_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_default_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/spinner_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/list_longpressed_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/list_pressed_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/list_activated_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/list_activated_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/bleft.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/bleft.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_off_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_disabled_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/textfield_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_default_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/textfield_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_disabled_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_default_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_on_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_pressed_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_on_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_focused_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_on_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_disabled_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_default_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_activated_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/textfield_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_disabled_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/textfield_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/list_focused_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_disabled_focused_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_on_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_disabled_focused_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_off_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_normal_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_off_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_disabled_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_off_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/textfield_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/bleft.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/bleft.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/spinner_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/blackwood.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/blackwood.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_disabled_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_off_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/blackwood.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/blackwood.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/cell.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/cell.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_pressed_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_on_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_disabled_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_on_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_pressed_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/spinner_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_focused_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_off_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_disabled_focused_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_on_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/bright.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/bright.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/textfield_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/spinner_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/bright.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/bright.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_pressed_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_focused_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_on_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_pressed_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_off_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/spinner_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/list_pressed_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_on_disabled_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_on_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/spinner_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/list_activated_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/list_activated_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_activated_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/textfield_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_pressed_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_off_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_disabled_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/textfield_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_normal_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_default_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/textfield_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_default_pressed_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/list_longpressed_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/list_focused_holo.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_disabled_focused_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/btn_radio_off_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/btn_radio_off_focused_holo_dark.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/btn_radio_off_focused_holo_dark.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/textfield_focused_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/textfield_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/cell.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-hdpi/cell.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_default_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/spinner_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/release/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_pressed_holo_dark.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-hdpi/spinner_pressed_holo_dark.9.png"
+    }
+]

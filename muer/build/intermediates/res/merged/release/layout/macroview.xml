@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/roundedgreen"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/macroResource"
+            android:background="@drawable/roundedgreen"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="false"
+            android:layout_centerVertical="true"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="X"
+            android:id="@+id/removemacrobutton"
+            android:background="@drawable/roundedpink"
+            android:textSize="12dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/macroResource"
+            android:layout_toEndOf="@+id/macroResource"
+            android:padding="5dp"
+            android:layout_margin="3dp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</RelativeLayout>

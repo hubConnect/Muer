@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/menu/activity_game_window.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/menu/activity_game_window.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/menu/activity_game_.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/menu/activity_game_.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/menu/activity_login.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/menu/activity_login.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/menu/activity_game_.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/menu/activity_game_.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/menu/activity_login.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/menu/activity_login.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/menu/nav.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/menu/nav.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/menu/activity_fast_options.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/menu/activity_fast_options.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/menu/activity_fast_options.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/menu/activity_fast_options.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/menu/mic.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/menu/mic.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/menu/activity_game_window.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/menu/activity_game_window.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/menu/mic.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/menu/mic.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/menu/nav.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/menu/nav.xml"
+    }
+]

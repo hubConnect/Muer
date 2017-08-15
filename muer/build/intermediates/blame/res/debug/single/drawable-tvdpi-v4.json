@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    }
+]

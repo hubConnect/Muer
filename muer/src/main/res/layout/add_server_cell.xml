@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/rounded"
+    android:orientation="vertical" >
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:id="@+id/addbutton"
+        android:background="@drawable/roundedgrey"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:layout_centerVertical="true"
+        android:padding="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/serverText"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/serverLabel"
+        android:layout_toEndOf="@+id/serverLabel" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Server"
+        android:padding="5dp"
+        android:id="@+id/serverLabel"
+        android:layout_alignBottom="@+id/serverText"
+        android:layout_toRightOf="@+id/addbutton"
+        android:layout_toEndOf="@+id/addbutton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Port"
+        android:padding="5dp"
+        android:id="@+id/portLabel"
+        android:layout_alignBottom="@+id/portText"
+        android:layout_toLeftOf="@+id/portText"
+        android:layout_toStartOf="@+id/portText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:padding="5dp"
+        android:id="@+id/descriptionLabel"
+        android:layout_alignBottom="@+id/descriptionText"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/descriptionText"
+        android:layout_below="@+id/serverText"
+        android:layout_toEndOf="@+id/descriptionLabel" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/portText"
+        android:inputType="number"
+        android:layout_below="@+id/serverLabel"
+        android:layout_toLeftOf="@+id/descriptionLabel"
+        android:layout_toRightOf="@+id/serverLabel"
+        android:layout_toEndOf="@+id/serverLabel" />
+
+</RelativeLayout>

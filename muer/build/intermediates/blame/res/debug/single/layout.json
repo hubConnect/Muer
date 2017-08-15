@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/activity_mic.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/activity_mic.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/add_server_cell.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/add_server_cell.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/fragment_cell.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/fragment_cell.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/activity_nav.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/activity_nav.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/connect_screen.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/connect_screen.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/macroview.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/macroview.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/activity_mic.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/activity_mic.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/connect_screen.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/connect_screen.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/activity_nav.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/activity_nav.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/add_server_cell.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/add_server_cell.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/activity_game_window.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/activity_game_window.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/activity_fast_options.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/activity_fast_options.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/options_menu.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/options_menu.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/server_connection_cell.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/server_connection_cell.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/addserver.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/addserver.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/macroview.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/macroview.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/options_menu.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/options_menu.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/fragment_cell.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/fragment_cell.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/activity_game_window.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/activity_game_window.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/activity_fast_options.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/layout/activity_fast_options.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/addserver.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/addserver.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/layout/server_connection_cell.xml",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/layout/server_connection_cell.xml"
+    }
+]

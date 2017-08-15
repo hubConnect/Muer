@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/Jon/mu-er/Muer-master/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jon/mu-er/Muer-master/muer/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/Jon/mu-er/Muer-master/muer/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/list_longpressed_holo" >
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ServerRecycler"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/AddServerView" />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/AddServerView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/rounded"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add"
+            android:id="@+id/addServerButton"
+            android:background="@drawable/roundedgrey"
+            android:layout_alignTop="@+id/textView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/serverEditText"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/textView"
+            android:layout_toEndOf="@+id/textView" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nameEditText"
+            android:layout_below="@+id/serverEditText"
+            android:layout_toEndOf="@+id/textView3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Server"
+            android:padding="5dp"
+            android:id="@+id/textView"
+            android:layout_alignBottom="@+id/serverEditText"
+            android:layout_toRightOf="@+id/addServerButton"
+            android:layout_toEndOf="@+id/addServerButton" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Port"
+            android:padding="5dp"
+            android:id="@+id/textView2"
+            android:layout_alignBottom="@+id/portEditText"
+            android:layout_toLeftOf="@+id/portEditText"
+            android:layout_toStartOf="@+id/portEditText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:padding="5dp"
+            android:id="@+id/textView3"
+            android:layout_alignBottom="@+id/nameEditText"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/portEditText"
+            android:inputType="number"
+            android:layout_below="@+id/textView"
+            android:layout_toLeftOf="@+id/textView3"
+            android:layout_toRightOf="@+id/textView"
+            android:layout_toEndOf="@+id/textView" />
+    </RelativeLayout>
+
+</RelativeLayout>
